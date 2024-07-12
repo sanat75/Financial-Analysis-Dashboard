@@ -1,4 +1,4 @@
-#Finance Dashboard App with Machine Learning Predictions
+# Finance Dashboard App with Machine Learning Predictions
 This repository hosts a full-stack web application built with the MERN (MongoDB, Express.js, React, Node.js) stack. The app serves as a comprehensive Finance Dashboard that integrates Machine Learning predictions for financial forecasting.
 
 Overview
